@@ -90,3 +90,4 @@ pip install requests
 python3 insights/apply-tags.py --org-id your-org-id --snyk-token your-snyk-token --origin github
 ```
 trigger scan
+trigger scan again
